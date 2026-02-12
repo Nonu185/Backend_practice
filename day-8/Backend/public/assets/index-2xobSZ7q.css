@@ -1,0 +1,1 @@
+*{margin:0;padding:0;box-sizing:border-box;font-family:Arial}html,body{height:100%;width:100%}html{background-color:#212121}.note{background-color:#494949;color:#fff;max-width:20rem;padding:1rem;border-radius:.5rem;gap:1rem}.notes{display:flex;flex-wrap:wrap;gap:.7rem}.create-note{display:flex;padding-inline:.5rem;padding-block:2rem;gap:.5rem}
